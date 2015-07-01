@@ -1,3 +1,5 @@
+//https://github.com/danmarshall/makerjs-smile
+
 var makerjs = require('makerjs');
 
 function smile(span, teeth, droop, dainty, gaze, heady) {
