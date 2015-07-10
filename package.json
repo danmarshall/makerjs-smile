@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/danmarshall/makerjs-smile",
   "dependencies": {
-    "makerjs": "^0.1.2"
+    "makerjs": "^0.2.0"
   }
 }
