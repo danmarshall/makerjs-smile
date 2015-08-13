@@ -1,6 +1,6 @@
 {
   "name": "makerjs-smile",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A smiley face for Maker.js",
   "main": "smile.js",
   "scripts": {
